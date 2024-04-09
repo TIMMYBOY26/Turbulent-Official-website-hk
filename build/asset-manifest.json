@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba3a699c.css",
+    "main.js": "/static/js/main.cdb70c9d.js",
+    "static/media/sea.mp4": "/static/media/sea.f3c0af4c2c4d298e0535.mp4",
+    "static/media/herovideo.mp4": "/static/media/herovideo.76439b734a60e1e4fa42.mp4",
+    "static/media/fire.mp4": "/static/media/fire.3a8b8e12cd92037d4450.mp4",
+    "static/media/contin.png": "/static/media/contin.0f7cf31cd1faa0dc6eca.png",
+    "static/media/nonfic.png": "/static/media/nonfic.84f57f6c15fa589bec2d.png",
+    "static/media/landblue.png": "/static/media/landblue.b2aff157eb5d264d3e9c.png",
+    "static/media/nonficAct.png": "/static/media/nonficAct.cb1d27769bbd79798115.png",
+    "static/media/continAct.png": "/static/media/continAct.b2cc91fc34669ce69bb7.png",
+    "static/media/tst.jpeg": "/static/media/tst.e8325661a247f0cbf69b.jpeg",
+    "static/media/Land.jpeg": "/static/media/Land.a79655c07334812af73a.jpeg",
+    "static/media/show3.jpeg": "/static/media/show3.2e08082cf94828d36b69.jpeg",
+    "static/media/wanchai.jpeg": "/static/media/wanchai.ae37991725e36627bb4e.jpeg",
+    "index.html": "/index.html",
+    "main.ba3a699c.css.map": "/static/css/main.ba3a699c.css.map",
+    "main.cdb70c9d.js.map": "/static/js/main.cdb70c9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba3a699c.css",
+    "static/js/main.cdb70c9d.js"
+  ]
+}
