@@ -25,14 +25,13 @@ const ContactUs = () => {
   };
 
   return (
-    <section>
-      <div className="container">
-        <h4 className="--text-center">Contact Us</h4>
+      <div className="form-container">
+        <h3>Contact Us by Email, WhatsApp or instagram!</h3>
         <form
           ref={form}
           onSubmit={sendEmail}
-          className="--form-control --card --flex-center --dir-column "
         >
+          <h5>Welcome to mail us:</h5>
           <input
             type="text"
             placeholder="Fill Name"
@@ -41,13 +40,12 @@ const ContactUs = () => {
           />
           <input type="email" placeholder="Email" name="user_email" required />
           <input type="text" placeholder="Subject" name="subject" required />
-          <textarea name="message" cols="30" rows="10"></textarea>
-          <button type="submit" className="--btn-primary">
+          <textarea placeholder="message" cols="30" rows="6"></textarea>
+          <button type="submit">
             Send Message
           </button>
         </form>
       </div>
-    </section>
   );
 };
 

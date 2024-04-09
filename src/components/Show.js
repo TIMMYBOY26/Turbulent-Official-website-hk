@@ -3,12 +3,10 @@ import ShowData from "./ShowData";
 import show1 from "../journey/wanchai.jpeg";
 import show2 from "../journey/tst.jpeg";
 import show3 from "../journey/show3.jpeg";
-import ShowVideo from "../assets/showvideo.mp4";
 
 function Show() {
   return (
     <div className="show">
-        <video src={ShowVideo} autoPlay loop muted/>
           <h1>Recent Shows</h1>
           <div class="showcards">
             <ShowData

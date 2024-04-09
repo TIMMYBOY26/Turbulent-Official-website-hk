@@ -1,16 +1,21 @@
 import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
-import AboutImg from "../assets/landblue.png";
+import ShowsImg from "../assets/landblue.png";
 import Footer from "../components/Footer";
 import Show from "../components/Show";
-
+import videoBg from "../assets/sea.mp4";
 
 
 function Shows() {
   return (
     <div>
       <Navbar />
-      {/* <Hero cName="hero-mid" heroImg={AboutImg} title="Shows" btnClass="hide" /> */}
+      <Hero
+        cName="hero-small"
+        heroVideo={videoBg}
+        title="Shows"
+        btnClass="hide"
+      />
       <Show />
       <Footer />
     </div>

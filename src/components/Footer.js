@@ -6,9 +6,12 @@ const Footer = () => {
       <div className="top">
         <div>
           <h1>turbulent_hk</h1>
-          <p>Keep crafting and gigging with us.</p>
+          <p>Welcome to join us</p>
         </div>
         <div>
+          <a href="https://wa.me/+85269359886?text=Hello! Welcome to Turbulent" target="_blank">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
           <a href="https://www.instagram.com/turbulent_hk?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
             <i className="fa-brands fa-instagram-square"></i>
           </a>

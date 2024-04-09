@@ -3,6 +3,15 @@ import "./AboutUsStyles.css";
 function AboutUs() {
   return (
     <div className="about-container">
+      <h1>Members</h1>
+      <p> VOCAL: Zackery</p>
+      <p> GUITAR: JORDAN</p>
+      <p> GUITAR: TIM</p>
+      <p> BASS: KEN</p>
+      <p> DRUM: TSZ_CHUNG</p>
+   
+      
+      
       <h1>Biography</h1>
       <p>
         Ladies and Gentlemen, we will cross a zone of turbulence soon.
