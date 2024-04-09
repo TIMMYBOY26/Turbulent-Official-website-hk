@@ -1,8 +1,7 @@
 import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
-import HomeImg from "../assets/nonfic.png";
+import videoBg from '../assets/herovideo.mp4'
 import Destination from "../components/Destination";
-import Show from "../components/Show";
 import Footer from "../components/Footer";
 
 function Home() {
@@ -11,7 +10,8 @@ function Home() {
       <Navbar />
       <Hero
         cName="hero"
-        heroImg={HomeImg}
+        // heroImg={HomeImg}
+        heroVideo={videoBg}
         title=""
         text=""
         buttonText="Listen"

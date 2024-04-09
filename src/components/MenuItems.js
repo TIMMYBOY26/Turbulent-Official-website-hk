@@ -7,7 +7,7 @@ export const MenuItems = [
   },
   {
     title: "Shows",
-    url: "/service",
+    url: "/shows",
     cName: "nav-links",
     icon: "fa-solid fa-music",
   },
