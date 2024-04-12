@@ -1,10 +1,8 @@
-import Hero from "../components/Hero";
-import Navbar from "../components/Navbar";
-import ShowsImg from "../assets/landblue.png";
-import Footer from "../components/Footer";
-import Show from "../components/Show";
+import Hero from "../components/Hero/Hero";
+import Navbar from "../components/NavBar/Navbar";
+import Footer from "../components/Footer/Footer";
+import Show from "../components/Shows/Show";
 import videoBg from "../assets/sea.mp4";
-import BackToTopButton from "../components/BackToTopButton";
 
 
 function Shows() {
@@ -19,6 +17,7 @@ function Shows() {
       />
       <Show />
       <Footer />
+
     </div>
   );
 }

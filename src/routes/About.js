@@ -1,8 +1,7 @@
-import Hero from "../components/Hero";
-import Navbar from "../components/Navbar";
-import AboutImg from "../assets/Land.jpeg";
-import Footer from "../components/Footer";
-import AboutUs from "../components/AboutUs";
+import Hero from "../components/Hero/Hero";
+import Navbar from "../components/NavBar/Navbar";
+import Footer from "../components/Footer/Footer";
+import AboutUs from "../components/AboutUs/AboutUs";
 import videoBg from "../assets/fire.mp4";
 
 function About() {

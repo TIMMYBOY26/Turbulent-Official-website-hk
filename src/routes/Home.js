@@ -1,8 +1,8 @@
-import Hero from "../components/Hero";
-import Navbar from "../components/Navbar";
+import Hero from "../components/Hero/Hero";
+import Navbar from "../components/NavBar/Navbar";
 import videoBg from '../assets/herovideo.mp4'
-import Destination from "../components/Destination";
-import Footer from "../components/Footer";
+import Destination from "../components/UpdateDestinstions/Destination";
+import Footer from "../components/Footer/Footer";
 
 function Home() {
   return (
@@ -20,7 +20,6 @@ function Home() {
       />
       <Destination />
       <Footer />
-
     </>
   );
 }

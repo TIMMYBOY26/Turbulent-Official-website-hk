@@ -1,7 +1,7 @@
-import contin from "../album/contin.png";
-import nonfic from "../album/nonfic.png";
-import continAct from "../album/continAct.png";
-import nonficAct from "../album/nonficAct.png";
+import contin from "../../album/contin.png";
+import nonfic from "../../album/nonfic.png";
+import continAct from "../../album/continAct.png";
+import nonficAct from "../../album/nonficAct.png";
 import DestinationData from "./DestinationData";
 import "./DestinationStyles.css";
 

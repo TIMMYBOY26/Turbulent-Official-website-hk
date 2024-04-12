@@ -4,7 +4,7 @@ import Home from "./routes/Home";
 import About from "./routes/About";
 import Shows from "./routes/Shows";
 import Contact from "./routes/Contact";
-import ScrollToTop from "./components/ScrollToTop";
+import ScrollToTop from "./components/BackToTopButton/ScrollToTop";
 
 
 export default function App() {

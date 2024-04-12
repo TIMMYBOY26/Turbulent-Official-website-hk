@@ -1,6 +1,6 @@
 import "./DestinationStyles.css";
-import contin from "../album/contin.png";
-import nonfic from "../album/nonfic.png";
+import contin from "../../album/contin.png";
+import nonfic from "../../album/nonfic.png";
 import { Component } from "react";
 
 class DestinationData extends Component {

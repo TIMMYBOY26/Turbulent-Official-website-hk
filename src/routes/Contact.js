@@ -1,8 +1,8 @@
-import Hero from "../components/Hero";
-import Navbar from "../components/Navbar";
+import Hero from "../components/Hero/Hero";
+import Navbar from "../components/NavBar/Navbar";
 // import ContactImg from "../assets/landblue.png";
-import Footer from "../components/Footer";
-import ContactUs from "../components/ContactUs";
+import Footer from "../components/Footer/Footer";
+import ContactUs from "../components/ContactUs/ContactUs";
 import videoBg from '../assets/herovideo.mp4'
 
 
