@@ -2,6 +2,7 @@ import { Component } from "react";
 import "./NavbarStyles.css";
 import { MenuItems } from "./MenuItems";
 import { Link } from "react-router-dom";
+import logo from '../assets/logo.png';
 
 class Navbar extends Component {
   state = { clicked: false };
@@ -12,8 +13,10 @@ class Navbar extends Component {
   render() {
     return (
       <nav className="NavbarItems">
+        <div className="navbar-icons">
+          <img className="logo" src={logo}></img>
+        </div>
         <h1 className="navbar-logo">Turbulent</h1>
-
         <div className="menu-icons" onClick={this.handleClick}>
           <i
             className={this.state.clicked ? "fas fa-times" : "fas fa-bars"}

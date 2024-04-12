@@ -1,0 +1,9 @@
+.totop {
+    display: block;
+    cursor: pointer;
+    width: 50%;
+}
+
+.totop:hover {
+    color: aquamarine;
+}

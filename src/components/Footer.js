@@ -1,4 +1,5 @@
 import "./FooterStyles.css";
+import BackToTopButton from "./BackToTopButton";
 
 const Footer = () => {
   return (
@@ -7,6 +8,8 @@ const Footer = () => {
         <div>
           <h1>turbulent_hk</h1>
           <p>Welcome to join us</p>
+          <BackToTopButton />
+
         </div>
         <div>
           <a href="https://wa.me/+85269359886?text=Hello! Welcome to Turbulent" target="_blank">

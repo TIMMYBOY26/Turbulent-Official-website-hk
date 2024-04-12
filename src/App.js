@@ -4,10 +4,13 @@ import Home from "./routes/Home";
 import About from "./routes/About";
 import Shows from "./routes/Shows";
 import Contact from "./routes/Contact";
+import ScrollToTop from "./components/ScrollToTop";
+
 
 export default function App() {
   return (
     <div className="App">
+      <ScrollToTop />
       <Routes>
         <Route element={<Home />} path="/" />
         <Route element={<About />} path="/about" />

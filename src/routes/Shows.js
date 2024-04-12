@@ -4,6 +4,7 @@ import ShowsImg from "../assets/landblue.png";
 import Footer from "../components/Footer";
 import Show from "../components/Show";
 import videoBg from "../assets/sea.mp4";
+import BackToTopButton from "../components/BackToTopButton";
 
 
 function Shows() {

@@ -15,11 +15,16 @@
   z-index: 9999;
 }
 
+.navbar-icons {
+  width: 40px;
+  display: none;
+}
+
 .navbar-logo {
   margin-top: 1rem;
   color: #222;
   font-size: 2rem;
-  cursor: pointer;
+  cursor: none;
 }
 
 .nav-menu {
@@ -144,5 +149,14 @@ button:hover {
   .menu-icons i {
     font-size: 1.2rem;
     color: black;
+  }
+
+  .navbar-icons {
+    display: flex;
+    width: 40px;
+  }
+
+  .navbar-logo {
+    display: none;
   }
 }
