@@ -13,6 +13,7 @@ function Hero(props) {
             {props.buttonText}
           </a>
         </div>
+
       </div>
     </>
   );
