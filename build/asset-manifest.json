@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Turbulent-Official-website-hk/static/css/main.11377b8a.css",
-    "main.js": "/Turbulent-Official-website-hk/static/js/main.bae6d6c9.js",
-    "static/media/sea.mp4": "/Turbulent-Official-website-hk/static/media/sea.f3c0af4c2c4d298e0535.mp4",
-    "static/media/herovideo.mp4": "/Turbulent-Official-website-hk/static/media/herovideo.76439b734a60e1e4fa42.mp4",
-    "static/media/fire.mp4": "/Turbulent-Official-website-hk/static/media/fire.3a8b8e12cd92037d4450.mp4",
-    "static/media/contin.png": "/Turbulent-Official-website-hk/static/media/contin.0f7cf31cd1faa0dc6eca.png",
-    "static/media/nonfic.png": "/Turbulent-Official-website-hk/static/media/nonfic.84f57f6c15fa589bec2d.png",
-    "static/media/nonficAct.png": "/Turbulent-Official-website-hk/static/media/nonficAct.cb1d27769bbd79798115.png",
-    "static/media/continAct.png": "/Turbulent-Official-website-hk/static/media/continAct.b2cc91fc34669ce69bb7.png",
-    "static/media/logo.png": "/Turbulent-Official-website-hk/static/media/logo.8cbe63bbbf8aff773989.png",
-    "index.html": "/Turbulent-Official-website-hk/index.html",
-    "main.11377b8a.css.map": "/Turbulent-Official-website-hk/static/css/main.11377b8a.css.map",
-    "main.bae6d6c9.js.map": "/Turbulent-Official-website-hk/static/js/main.bae6d6c9.js.map"
+    "main.css": "/static/css/main.11377b8a.css",
+    "main.js": "/static/js/main.fff8adc9.js",
+    "static/media/sea.mp4": "/static/media/sea.f3c0af4c2c4d298e0535.mp4",
+    "static/media/herovideo.mp4": "/static/media/herovideo.76439b734a60e1e4fa42.mp4",
+    "static/media/fire.mp4": "/static/media/fire.3a8b8e12cd92037d4450.mp4",
+    "static/media/contin.png": "/static/media/contin.0f7cf31cd1faa0dc6eca.png",
+    "static/media/nonfic.png": "/static/media/nonfic.84f57f6c15fa589bec2d.png",
+    "static/media/nonficAct.png": "/static/media/nonficAct.cb1d27769bbd79798115.png",
+    "static/media/continAct.png": "/static/media/continAct.b2cc91fc34669ce69bb7.png",
+    "static/media/logo.png": "/static/media/logo.8cbe63bbbf8aff773989.png",
+    "index.html": "/index.html",
+    "main.11377b8a.css.map": "/static/css/main.11377b8a.css.map",
+    "main.fff8adc9.js.map": "/static/js/main.fff8adc9.js.map"
   },
   "entrypoints": [
     "static/css/main.11377b8a.css",
-    "static/js/main.bae6d6c9.js"
+    "static/js/main.fff8adc9.js"
   ]
 }
