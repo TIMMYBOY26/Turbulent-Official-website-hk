@@ -6,8 +6,6 @@ import Shows from "./routes/Shows";
 import Contact from "./routes/Contact";
 import ScrollToTop from "./components/BackToTopButton/ScrollToTop";
 
-
-
 export default function App() {
   return (
     <div className="App">

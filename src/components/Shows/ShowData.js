@@ -1,6 +1,7 @@
 import "./ShowStyles.css";
 import { Link } from 'react-router-dom';
 
+
 function ShowData(props) {
   return (
     <div className="s-card">
@@ -13,7 +14,7 @@ function ShowData(props) {
       <h6>Organizer: <br />{props.organizer}</h6>
       <h6>Date: <br />{props.date}</h6>
       <h6>Venue: <br /></h6>
-      <iframe src={props.googlemap} width="80%"
+      <iframe src={props.googlemap} width="70%"
         height="200"
         style={{ border: 0 }}
         allowFullScreen
